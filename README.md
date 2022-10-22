@@ -7,5 +7,5 @@ I graduated from [Walter-Eucken-Gymnmasium](https://www.weg-freiburg.de) in Frei
 Currently, I am...
 
 - working at the [Continum AG](https://continum.net) in Freiburg as an  IT system administrator.
-- managing the IT Infrastructe of the [rdp Baden-Württemberg](https://rdp-bw.de) & [DPSG Freiburg](https://dpsg-freiburg.de) as a volunteer employee
+- managing the IT Infrastructe of the [rdp Baden-Württemberg](https://rdp-bw.de) & [DPSG Freiburg](https://dpsg-freiburg.de)
 - a leader of the [scouts in the district „Vauban“ in Freiburg](https://pfadfinder-vauban.de)
