@@ -7,5 +7,5 @@ I graduated from [Walter-Eucken-Gymnmasium](https://www.weg-freiburg.de) in Frei
 Currently, I am...
 
 - a system & network engineer at [karldischinger](https://www.karldischinger.eu)
-- managing the IT Infrastructe of the [rdp Baden-Württemberg](https://rdp-bw.de/project/it/) & [DPSG Freiburg](https://dpsg-freiburg.de)
+- managing the IT Infrastructe of the [rdp Baden-Württemberg](https://rdp-bw.de/project/it/), [DPSG Freiburg](https://dpsg-freiburg.de) & [DPSG Roverserver](https://github.com/roverserver)
 - a leader of the [scouts in the district „Vauban“ in Freiburg](https://pfadfinder-vauban.de)
